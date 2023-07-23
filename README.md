@@ -9,4 +9,7 @@
  - ng Build is angular CLI command, that compiles our angular project and creates optimal Javascript, CSS, and HTML files, These files are placed in the dist folder, ready for deployment to a web server or hosting service to run your angular application.
 
 ### What is the usage of ng serve
- - ng serve is an angular CLI command that starts a development server, compiles our code, and serve it locally, it is a convenient way to on our angular project, as automatically reflects changes in code without needing to refresh page.  
+ - ng serve is an angular CLI command that starts a development server, compiles our code, and serve it locally, it is a convenient way to on our angular project, as automatically reflects changes in code without needing to refresh the page.
+
+### What is the usage of angular ng generate ?
+ - ng is the angular command used to create angular code elements like components, services, modules, and many more for our angular project, it simplifies the creation and setup of new code elements saving time and effort during the development process.
