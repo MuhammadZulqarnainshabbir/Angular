@@ -5,5 +5,5 @@
    - Template Driven Forms rely on HTML templates to handle the form state and validation using angular directives. It's easier to set up and less complex but it becomes less manageable for complex forms.
    - Reactive Forms on the other hand creates Form Control programmatically in typescript and provides more control and flexibility over form validation and behaviour. They are well-suited for complex forms and encourage better separation of concerns between the template and component classes.
 
-#### What is the usage of ng build
+### What is the usage of ng build
     - ng Build is angular CLI command, that compiles our angular project and creates optimal Javascript, CSS, and HTML files, These files are placed in the dist folder, ready for deployment to a web server or hosting service to run your angular application.
